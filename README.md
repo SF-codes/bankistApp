@@ -1,12 +1,19 @@
 # bankistApp
 
- ** PLEASE USE 'uo' AND PASSWORD 1111 for USER ONE, AND 'ut' WITH PASSWORD 2222 FOR USER 2!!! **
+## PLEASE READ:
+ ** PLEASE USE 'uo' AND PASSWORD 1111 for USER ONE (EU$), AND 'ut' WITH PASSWORD 2222 FOR USER 2 (US$)!! **
  
-A simplistic bank app that allows you to login, transfer funds from your own account to another user, request a loan, etc
+This app features login functionality, transfer of funds from one user to another, request a loan (Won't take as long as real life I promise!) but there is a wait time. With use of OOP, Math functions, timeout function which logs you out after X amount of time. 
 
-This simple bank app was very fun to make!
-It features login function capabilities, transfer of funds from one user to another (Which you can see!), request a loan with a wait time until acceptance (Not like real life wait time, I promise!), withdraw and deposit $
+### Links
+Live Site URL: https://sf-codes.github.io/bankistApp/
 
-Technologies used: JavaScript
+### Built with
 
-With heavy DOM manipulation, data transformations, method chaining and date management 
+- Vanilla JavaScript
+- OOP
+
+
+### What I learned
+
+I learned a lot about Math functions and its many different ways to use them within an app like this one. I've also learned about Optional Chaining and it's uses (Also implemented) and date management.
