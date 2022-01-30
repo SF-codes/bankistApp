@@ -6,10 +6,10 @@
  
 This app features login functionality, transfer of funds from one user to another, request a loan (Won't take as long as real life I promise!) but there is a wait time. With use of OOP, Math functions, timeout function which logs you out after X amount of time. 
 
-![Screenshot 2022-01-21 at 17-42-25 Bankist](https://user-images.githubusercontent.com/82302032/150622391-03e2fe0c-069a-43bb-9907-1d21c42ebc2f.png)
-
 ### Links
 Live Site URL: https://sf-codes.github.io/bankistApp/
+
+![Screenshot 2022-01-21 at 17-42-25 Bankist](https://user-images.githubusercontent.com/82302032/150622391-03e2fe0c-069a-43bb-9907-1d21c42ebc2f.png)
 
 ### Built with
 
